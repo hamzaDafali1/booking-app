@@ -1,0 +1,17 @@
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\bin\Debug\GestionHotelWFA.exe.config
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\bin\Debug\GestionHotelWFA.exe
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\bin\Debug\GestionHotelWFA.pdb
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\obj\Debug\GestionHotelWFA.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\obj\Debug\GestionHotelWFA.Form1.resources
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\obj\Debug\GestionHotelWFA.Properties.Resources.resources
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\obj\Debug\GestionHotelWFA.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\obj\Debug\GestionHotelWFA.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\obj\Debug\GestionHotelWFA.exe
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\obj\Debug\GestionHotelWFA.pdb
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\obj\Debug\GestionHotelWFA.Form2.resources
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\obj\Debug\GestionHotelWFA.modifierForm.resources
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\obj\Debug\GestionHotelWFA.GestionnaireForm.resources
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\obj\Debug\GestionHotelWFA.AccForm.resources
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\obj\Debug\GestionHotelWFA.InvoiceForm.resources
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\obj\Debug\GestionHotelWFA.addtypeForm.resources
+C:\Users\admin\Documents\Selection regionale Exercise\GestionHotelWFA\GestionHotelWFA\obj\Debug\GestionHotelWFA.ImportAccForm.resources
